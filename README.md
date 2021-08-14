@@ -1,2 +1,2 @@
-# gui_elements
-Library of personal gui elements used for data science
+# dsgui
+Library of personal data science-related gui elements
